@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+.idea/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+
+flights.db
